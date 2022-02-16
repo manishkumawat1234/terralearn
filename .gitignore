@@ -4,3 +4,7 @@
 *.tfstate.*
 
 *.tfvars
+
+
+access_key = "AKIAXYS7K6E244KOAYFO"
+secret_key=  "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"
